@@ -1,0 +1,10 @@
+requests
+python-dateutil
+httpx
+pyperclip
+Pillow
+aiohttp
+nest-asyncio
+bcrypt
+streamlit-cookies-manager
+itsdangerous
