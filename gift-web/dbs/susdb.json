@@ -1,0 +1,61 @@
+{"sus":[{
+    "_id": {
+      "$oid": "6433119f1ff4ec2ed649fd27"
+    },
+    "UserId": {
+      "$numberLong": "1015240781138767903"
+    },
+    "AccessToken": "713499ef26934abb9bd7c6ea1944871b",
+    "AccountId": "19a836ff2ed443bfb56d24ec9c1264af",
+    "DisplayName": "ζ SHIFU ζ",
+    "DeviceId": "fde2d64ab2e54c9595db2d141886ece5",
+    "Secret": "KSSGYRN6EMTR7DADVGJJBZFO6WNL223G"
+  },{
+    "_id": {
+      "$oid": "643313f5f92486bea29dd205"
+    },
+    "UserId": {
+      "$numberLong": "817342795085119504"
+    },
+    "AccessToken": "e1f32004eb1f456080ac54cd9101d6f3",
+    "AccountId": "e4b9cf1f2be64852ae0da6d4adcf1623",
+    "DisplayName": "kai120fps",
+    "DeviceId": "46c954ef54f44709914b0bf3d2f9318b",
+    "Secret": "6GI6USWGJJTV6O3DQSOX3PSGDNRNVK4H"
+  },{
+    "_id": {
+      "$oid": "643314d4f92486bea29dd206"
+    },
+    "UserId": {
+      "$numberLong": "1062889049335009311"
+    },
+    "AccessToken": "0b7b96aeda9b412c8f768f8b327cf7c2",
+    "AccountId": "4c71187b88674f2faad479eecca52a05",
+    "DisplayName": "TGS Editz",
+    "DeviceId": "0e71b99a60804883be8984c85e033353",
+    "Secret": "DYURBUGQRJ4A3T5VXGXAEGD6GOTVUTLS"
+  },{
+    "_id": {
+      "$oid": "643314e2f92486bea29dd207"
+    },
+    "UserId": {
+      "$numberLong": "990168931278934048"
+    },
+    "AccessToken": "56e743a93ac94d36ae26780db263060b",
+    "AccountId": "b93cc4f01c904b8caa08cf2331d26d03",
+    "DisplayName": "SilentiumDenizen",
+    "DeviceId": "e081c6d77aec48fab4525873eebba5f9",
+    "Secret": "UQXTYP6VN4CZK5RSKTP4TWK74ICDDRHG"
+  },{
+    "_id": {
+      "$oid": "6433159ef92486bea29dd208"
+    },
+    "UserId": {
+      "$numberLong": "363501628134916097"
+    },
+    "AccessToken": "2de020d0b53448caa9db6a31b5d540c5",
+    "AccountId": "cd4f26fcf57f4bb787db8bc16d67d0f3",
+    "DisplayName": "SonicMantella10",
+    "DeviceId": "1eca8dbad45149a4bd62f6e4f419d3d7",
+    "Secret": "YXGHDX4G7JCXWVTQY64U6TT2RJXWPUX7"
+  }]}
