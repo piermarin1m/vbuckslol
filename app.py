@@ -1017,10 +1017,9 @@ def item_shop_page():
     recipient_ids = {
         "Matteo": "b0fbe18932bb40469c5dc13e2d3f98ac",
         "Lucca": "223ae36b0946495a8ac5ec63370c2810",
-        "Leah": "94faf1ecf4da448b955f031cbdc47282",
         "Daniel" : "139ff8d7939344b499f7e7ed283fe6cc",
         "Ariel" : "2919499553af4cafb9adcb5da82d60ec",
-        "Leah" " "94faf1ecf4da448b955f031cbdc47282"
+        "Leah" : "94faf1ecf4da448b955f031cbdc47282"
     }
     
     # Get shop data
@@ -2207,7 +2206,7 @@ def heist_management_page():
                 "Leah" : "94faf1ecf4da448b955f031cbdc47282",
                 "Daniel" : "139ff8d7939344b499f7e7ed283fe6cc",
                 "Ariel" : "2919499553af4cafb9adcb5da82d60ec",
-                "Leah" " "94faf1ecf4da448b955f031cbdc47282"
+                "Leah" : "94faf1ecf4da448b955f031cbdc47282"
             }
 
             
@@ -2419,10 +2418,9 @@ def heist_management_page():
                 "Select preset account...": "",
                 "Matteo": "b0fbe18932bb40469c5dc13e2d3f98ac",
                 "Lucca": "223ae36b0946495a8ac5ec63370c2810",
-                "Leah" : "94faf1ecf4da448b955f031cbdc47282",
                 "Daniel" : "139ff8d7939344b499f7e7ed283fe6cc",
                 "Ariel" : "2919499553af4cafb9adcb5da82d60ec",
-                "Leah" " "94faf1ecf4da448b955f031cbdc47282"
+                "Leah" : "94faf1ecf4da448b955f031cbdc47282"
             }
             
             account_selection = st.radio(
