@@ -1067,7 +1067,7 @@ def item_shop_page():
                     
                     # Gift button
                     if offer.get('giftable', False):
-                        if st.button("\U0001F381", key=f"gift_btn_{offer['id']}"):  # Simplified button to just emoji
+                        if st.button("\U0001F381 Gift", key=f"gift_btn_{offer['id'] or f'item_{random.randint(1000, 9999)}'}"):  # Simplified button to just emoji
                             try:
                                 # Check if added_{gift_to_id}.json exists
                                 gift_file_path = f"./dbs/added_{gift_to_id}.json"
